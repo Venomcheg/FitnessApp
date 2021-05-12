@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>CodeBlogFitness</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CodeBlogFitness.BL\CodeBlogFitness.BL.csproj" />
+    </ItemGroup>
+
+</Project>

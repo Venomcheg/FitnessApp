@@ -1,0 +1,12 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitness.CMD", "CodeBlogFitness.CMD\CodeBlogFitness.CMD.csproj", "{513D9C94-4801-4878-9494-003EE5D46C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitness.BL", "CodeBlogFitness.BL\CodeBlogFitness.BL.csproj", "{8767E372-DB47-4F77-82FC-2E92B9614C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
